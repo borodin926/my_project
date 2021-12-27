@@ -2,4 +2,4 @@
 
 2nd commit
 
-3d conflict commit
+3d commit
